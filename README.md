@@ -11,7 +11,7 @@ Shadowsocks-libev for OpenWrt
 
 已编译完成
 ---
-当前libev版本
+当前libev版本v3.2.3
 
 特性
 ---
