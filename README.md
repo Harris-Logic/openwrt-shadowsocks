@@ -8,6 +8,11 @@ Shadowsocks-libev for OpenWrt
 
  本项目是 [shadowsocks-libev][1] 在 OpenWrt 上的移植  
 
+
+已编译完成
+---
+当前libev版本
+
 特性
 ---
 
